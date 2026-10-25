@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import './App.css'
-const API_URL = 'http://localhost:5000'
+const API_URL = 'https://YOUR-QUICKBITE-SERVICE.onrender.com'
 
 const categories = ['All', 'Burger', 'Pizza', 'Indian', 'Drinks', 'Desserts']
 
